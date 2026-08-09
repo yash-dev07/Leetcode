@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash-dev07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Array
+|  |
+| ------- |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/yash-dev07/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 <!---LeetCode Topics End-->
