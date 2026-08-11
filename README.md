@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/yash-dev07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/yash-dev07/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yash-dev07/Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/yash-dev07/Leetcode/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yash-dev07/Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/yash-dev07/Leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -61,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yash-dev07/Leetcode/tree/master/0657-robot-return-to-origin) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/yash-dev07/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/yash-dev07/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/yash-dev07/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
