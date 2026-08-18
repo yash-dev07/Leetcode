@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/yash-dev07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/yash-dev07/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yash-dev07/Leetcode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/yash-dev07/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/yash-dev07/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/yash-dev07/Leetcode/tree/master/1025-divisor-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-dev07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
