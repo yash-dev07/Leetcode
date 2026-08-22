@@ -92,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/yash-dev07/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/yash-dev07/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/yash-dev07/Leetcode/tree/master/0595-big-countries) |
+| [1341-movie-rating](https://github.com/yash-dev07/Leetcode/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
