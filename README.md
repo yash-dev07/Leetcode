@@ -54,15 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yash-dev07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash-dev07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yash-dev07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash-dev07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yash-dev07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yash-dev07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash-dev07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yash-dev07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -99,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yash-dev07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yash-dev07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
