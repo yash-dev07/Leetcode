@@ -52,17 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yash-dev07/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yash-dev07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash-dev07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yash-dev07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yash-dev07/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash-dev07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yash-dev07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yash-dev07/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yash-dev07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash-dev07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yash-dev07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yash-dev07/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yash-dev07/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
