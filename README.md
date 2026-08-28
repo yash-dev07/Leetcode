@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/yash-dev07/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yash-dev07/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/yash-dev07/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/yash-dev07/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-dev07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -112,9 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yash-dev07/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yash-dev07/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yash-dev07/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yash-dev07/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
