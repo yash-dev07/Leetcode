@@ -15,45 +15,46 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result=new ArrayList<>();
-        if(root==null){
+        List<List<Integer>> result = new ArrayList<>();
+        if (root == null) {
             return result;
         }
-        Boolean reverse=false;
-        Deque<TreeNode> queue=new LinkedList<>();
+        Boolean reverse = false;
+        Deque<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
-        while(!queue.isEmpty()){
-            int levelsize=queue.size();
-            List<Integer> currentlevel=new LinkedList<>();
-           if(!reverse){
-            for(int i=0;i<levelsize;i++){
-                TreeNode currentnode=queue.pollFirst();
-                currentlevel.add(currentnode.val);
-                if(currentnode.left!=null){
+        while (!queue.isEmpty()) {
+            int levelsize = queue.size();
+            List<Integer> currentlevel = new LinkedList<>();
+            if (!reverse) {
+                for (int i = 0; i < levelsize; i++) {
+                    TreeNode currentnode = queue.pollFirst();
+                    currentlevel.add(currentnode.val);
+                    if (currentnode.left != null) {
                         queue.addLast(currentnode.left);
-                }
-                if(currentnode.right!=null){
-                    queue.addLast(currentnode.right);
-                }
+                    }
+                    if (currentnode.right != null) {
+                        queue.addLast(currentnode.right);
+                    }
 
-            }
-           }else{
-            for(int i=0;i<levelsize;i++){
-                TreeNode currentnode=queue.pollLast();
-                currentlevel.add(currentnode.val);
-                if(currentnode.right!=null){
+                }
+            } else {
+                for (int i = 0; i < levelsize; i++) {
+                    TreeNode currentnode = queue.pollLast();
+                    currentlevel.add(currentnode.val);
+                    if (currentnode.right != null) {
                         queue.addFirst(currentnode.right);
-                }
-                if(currentnode.left!=null){
-                    queue.addFirst(currentnode.left);
+                    }
+                    if (currentnode.left != null) {
+                        queue.addFirst(currentnode.left);
+                    }
                 }
             }
-           }
-            reverse=!reverse;
-           
-  result.add(currentlevel);
+            reverse = !reverse;
 
-            }
-    
+            result.add(currentlevel);
+
+        }
+
         return result;
-}}
+    }
+}
