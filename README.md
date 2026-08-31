@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yash-dev07/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0168-excel-sheet-column-title](https://github.com/yash-dev07/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yash-dev07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0657-robot-return-to-origin](https://github.com/yash-dev07/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yash-dev07/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yash-dev07/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/yash-dev07/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yash-dev07/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yash-dev07/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yash-dev07/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
