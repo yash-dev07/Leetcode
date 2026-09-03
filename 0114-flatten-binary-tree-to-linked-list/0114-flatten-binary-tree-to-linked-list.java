@@ -15,28 +15,21 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        TreeNode curr = root;
-
-        while (curr != null) {
-
-            if (curr.left != null) {
-
-                // Find rightmost node of left subtree
-                TreeNode prev = curr.left;
-                while (prev.right != null) {
-                    prev = prev.right;
+        if(root==null){
+            return;
+        }
+        TreeNode current=root;
+        while(current!=null){
+            if(current.left!=null){
+                TreeNode temp=current.left;
+                while(temp.right!=null){
+                    temp=temp.right;
                 }
-
-                // Connect right subtree
-                prev.right = curr.right;
-
-                // Move left subtree to right
-                curr.right = curr.left;
-                curr.left = null;
+                temp.right=current.right;
+                current.right=current.left;
+                current.left=null;
             }
-
-            // Move to next node
-            curr = curr.right;
+            current=current.right;
         }
     }
 }
