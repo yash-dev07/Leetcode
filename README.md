@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/yash-dev07/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/yash-dev07/Leetcode/tree/master/1025-divisor-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-dev07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3870-count-commas-in-range](https://github.com/yash-dev07/Leetcode/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
