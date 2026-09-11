@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/yash-dev07/Leetcode/tree/master/1025-divisor-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-dev07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/yash-dev07/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yash-dev07/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/yash-dev07/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-dev07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yash-dev07/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yash-dev07/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Simulation
 |  |
 | ------- |
