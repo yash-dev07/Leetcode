@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash-dev07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0496-next-greater-element-i](https://github.com/yash-dev07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yash-dev07/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-dev07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/yash-dev07/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yash-dev07/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/yash-dev07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/yash-dev07/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/yash-dev07/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-dev07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash-dev07/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-dev07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yash-dev07/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/yash-dev07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/yash-dev07/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yash-dev07/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search Tree
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash-dev07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/yash-dev07/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
